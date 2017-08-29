@@ -1,0 +1,4 @@
+
+set(CN_PROJECT_NAME "Flericoin")
+set(CN_CURRENCY_DISPLAY_NAME "Flericoin")
+set(CN_CURRENCY_TICKER "XFC")

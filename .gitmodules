@@ -1,0 +1,6 @@
+[submodule "flericoin"]
+	path = flericoin
+	url = https://github.com/flericoin-project/flericoin.git
+[submodule "cryptonote"]
+	path = cryptonote
+	url = https://github.com/flericoin-project/flericoin.git
